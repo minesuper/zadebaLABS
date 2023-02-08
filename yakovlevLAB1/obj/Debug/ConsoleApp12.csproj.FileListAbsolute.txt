@@ -1,0 +1,14 @@
+C:\Users\zadaa\source\repos\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\zadaa\source\repos\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\zadaa\source\repos\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\zadaa\source\repos\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\zadaa\source\repos\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\zadaa\source\repos\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\zadaa\source\repos\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\bin\Debug\ConsoleApp12.exe.config
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\bin\Debug\ConsoleApp12.exe
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\bin\Debug\ConsoleApp12.pdb
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\obj\Debug\ConsoleApp12.exe
+S:\ИСП211\Yakovlev_George\yakovlevLAB1\obj\Debug\ConsoleApp12.pdb
