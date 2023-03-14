@@ -1,0 +1,7 @@
+C:\Users\zadaa\source\repos\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\zadaa\source\repos\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\zadaa\source\repos\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\zadaa\source\repos\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\zadaa\source\repos\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\zadaa\source\repos\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\zadaa\source\repos\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
